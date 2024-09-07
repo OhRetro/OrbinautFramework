@@ -42,7 +42,16 @@ If you have any questions about the framework, feel free to use the [Discussions
 - **Tech Stadium Zone**: Enrico Cartmanuel
 - **Level Design**: FieryN8
 - **"Giganorbi" Boss Programming**: techncolour
+- **Discord Rich Presence Plugin**: nkrapivin
 - **Special Thanks**: Lapper, Mercury, NicoCW, Valeev, Noah N. Copeland, The Sonic 1, 2 and 3 Dissasembly Community, @RunningPigeon, and our Twitter followers!
+
+## Terms of Use
+
+- For fangames: non-profitable, as always.
+- For original IPs: [MIT License](https://github.com/TrianglyRU/OrbinautFramework/blob/master/LICENSE.md).
+
+Please credit us as Team Orbinaut.    
+We'd also like to ask that you not distribute a modified versions of the framework, thank you!    
 
 ---
 
